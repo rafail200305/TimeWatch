@@ -1,0 +1,55 @@
+#home-page{
+    background-image: url("https://preview.colorlib.com/theme/aranoz/img/banner_img.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 1rem 6rem;
+
+
+  }
+
+    .home-page{
+   .content{
+    max-width: 400px;
+    h1{
+      font-size: 96px;
+      font-weight: bold;
+       }
+       p{
+         font-size: 17px;
+       }
+       .buy{
+        padding: 12px 35px;
+        background-color: #FF2548;
+         border-radius: 5px;
+       }
+   }
+
+    }
+    #category{
+      background-color: #F8FBFF;
+      h1{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 40px;
+      }
+
+      .container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 30px;
+
+      }
+      
+      .image-text1{
+        margin-right: 300px;
+        width: 200px;
+      }
+       .image-text3{
+        margin-right: 250px;
+       }   
+   
+     }
+    
