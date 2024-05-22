@@ -21,9 +21,7 @@ const HomePage = () => {
         {/* </div> */}
       </div>
       </div>
-<section>
-  
-</section>
+
         <section id="category">
         <h1>Featured Category</h1>
         <div className="container">
